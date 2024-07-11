@@ -1,0 +1,60 @@
+text
+"q1) which of the following is not a type of security attack?  
+a) interruption  
+b) interception  
+c) modification  
+d) distribution  
+ 
+q2) what is the process of converting plaintext into ciphertext called?  
+a) decryption  
+b) enciphering  
+c) cryptanalysis  
+d) coding  
+ 
+q3) what does the term 'plaintext' refer to in cryptography?  
+a) encrypted data  
+b) decrypted data  
+c) original intelligible message  
+d) key used in encryption  
+ 
+q4) which of the following is not a symmetric key cryptographic algorithm?  
+a) des  
+b) aes  
+c) rsa  
+d) blowfish  
+ 
+q5) what type of cryptanalysis is primarily used against symmetric ciphers like des?  
+a) differential cryptanalysis  
+b) integral cryptanalysis  
+c) algebraic cryptanalysis  
+d) linear cryptanalysis  
+ 
+q6) which algorithm uses a 128 -bit block size and a variable key size?  
+a) des  
+b) aes  
+c) rc5  
+d) blowfish  
+ 
+q7) who is considered the inventor of the rsa algorithm?  
+a) rivest, shamir, and adleman  
+b) diffie and hellman  
+c) claude shannon  
+d) alan turing  
+ 
+q8) in public key cryptography, what is the primary use of the private key?  
+a) encrypting messages  
+b) decrypting messages  
+c) generating digital signatures  
+d) both b and c  
+ 
+q9) which algorithm is known for using a pair of keys, one for encryption and one for decryption?  
+a) des  
+b) rsa  
+c) aes  
+d) blowfish  
+ 
+q10) what does pki stand for in network security?  
+a) public key infrastructure  
+b) private key interface  
+c) public key information  
+d) private key implementation"
