@@ -1,5 +1,0 @@
-{
-    "require": {
-        "league/flysystem": "^2.0"
-    }
-}
